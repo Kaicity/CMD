@@ -1,0 +1,1 @@
+|Export-Csv "\\TEN_SERVER\kiemke\kiemke_2026.csv" -Append -NoTypeInformation -Encoding UTF8
